@@ -1,6 +1,7 @@
 # Podosome-Paper-Files-
 
 Commented analysis code for Glazier, Brockman, Bartle, Matteyses, Destaing, and Salaita. In revision, 2019. 
+Codes are written to be run in sections and not all the way through. Many image analysis codes require user input or selection. 
 
 Codes for MFM are available at https://experiments.springernature.com/articles/10.1038/nmeth.4536
 
