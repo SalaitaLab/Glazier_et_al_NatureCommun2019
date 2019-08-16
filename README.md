@@ -1,7 +1,8 @@
 # Podosome-Paper-Files-
 
 Commented analysis code for Glazier, Brockman, Bartle, Matteyses, Destaing, and Salaita. In revision, 2019. 
-Here we include a combination of scripts and functions to perform analysis. <br/><br/>
+Here we include a combination of scripts and functions to perform analysis. <br/>
+Files are sorted into folders by category, and the Supporting Files and Functions folder contains basic functions used by multiple analyses. <br/><br/>
 
 Overview:
 Fig 1 - To perform depletion versus actin content analysis, use the LifeActAnalysis script, which should be run 1 section at a time. To perform FRAP analysis, run the FRAPAnalysis script. <br/>
