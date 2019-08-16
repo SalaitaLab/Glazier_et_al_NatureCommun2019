@@ -19,7 +19,7 @@ Fig 2 - To perform MT-FLIM Analysis follow the following steps: (See SI Figure 1
         2. Run the TrackCluster_Script. You will need to use https://imagej.net/TrackMate to perform tracking, but this script will generate a cluster mask to track and plot the final tracking results. 
 Fig 3 - Codes for MFM are available at https://experiments.springernature.com/articles/10.1038/nmeth.4536
 Fig 4 - First, perform steps 1 - 5 as described for Fig 2. Then, run MTFLIM_Script_DrugAnalysis, which will do before and after comparison of drug treated cells. <br/>
-Fig 5 - PCB analysis methods are shown in SI 22. To peform PCB tension analysis (per cell), run the PhotocleavableBiotin_Tension script section-by-section. To perform PCB protrusion analysis (per podosome), run teh PhotocleavableBiotin_Density script section-by-section.<br/>
+Fig 5 - PCB analysis methods are shown in SI 22. To peform PCB tension analysis (per cell), run the PhotocleavableBiotin_Tension script section-by-section. To perform PCB protrusion analysis (per podosome), run the PhotocleavableBiotin_Density script section-by-section.<br/>
 Fig 6 - To perform TGT analysis, run the TGT script section-by-section. This will quantify percent forming podosomes, cell area, number of podosomes, and mean depletion. <br/>
 Fig 7 - To simply model podosome tensile forces, run the ModelTension script. <br/><br/>
         
