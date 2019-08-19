@@ -2,6 +2,7 @@
 
 Commented analysis code for Glazier, Brockman, Bartle, Matteyses, Destaing, and Salaita. In revision, 2019. 
 Here we include a combination of scripts and functions to perform analysis. <br/>
+For assistance, please email k.salaita@emory.edu and cc roxanne.glazier@emory.edu <br/>
 Files are sorted into folders by category, and the Supporting Files and Functions folder contains basic functions used by multiple analyses. <br/><br/>
 
 Overview:
