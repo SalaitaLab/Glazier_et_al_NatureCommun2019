@@ -26,5 +26,6 @@ Fig 7 - To simply model podosome tensile forces, run the ModelTension script. <b
         
 
 These files work in conjuction with ND Bioformats. https://www.openmicroscopy.org/bio-formats/ This program must be installed and on your MATLAB path for these codes to run. <br/>
-You also must have SEM_calc from https://www.mathworks.com/matlabcentral/fileexchange/26508-notboxplot to run these codes. Finally, for the clustering time lapse analysis, you must download https://www.mathworks.com/matlabcentral/fileexchange/35684-multipage-tiff-stack. 
+You also must have SEM_calc from https://www.mathworks.com/matlabcentral/fileexchange/26508-notboxplot to run these codes.
+(11/2/2019 Note: Please note that SEM_calc actually provides the 95% confidence interval!) Finally, for the clustering time lapse analysis, you must download https://www.mathworks.com/matlabcentral/fileexchange/35684-multipage-tiff-stack. 
 
