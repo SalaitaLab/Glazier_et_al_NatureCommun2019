@@ -1,6 +1,6 @@
 function [NormProfile, zercheck] = IlluminationProfile20200127(ImFold)
 % Glazier, Brockman, Bartle, Mattheyses, Destaing, and Salaita. 2019. 
-%Input is folder w n images 
+%Input is folder w 3 images from same surface (Since this does not normalize before adding, the images should be similar in their intensity). We used this on 10 surfaces total in script.  
 %Output is normalized image to divide your image by. 
 NumMat=zeros(512);
 Ims= FindFiles(ImFold,'*.tif');
